@@ -12,7 +12,7 @@
 - src: git@github.com:erant-netology-courses/lighthouse-nginx.git
   scm: git
   version: main
-  name: nginx-lighthouse
+  name: lighthouse-nginx
 
 - src: https://github.com/erant-netology-courses/vector-role.git
   scm: git
