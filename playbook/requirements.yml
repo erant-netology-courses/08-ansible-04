@@ -6,10 +6,15 @@
 
 - src: git@github.com:erant-netology-courses/lighthouse-role.git
   scm: git
-  version: "1.0.0"
+  version: latest
+  name: lighthouse
+
+- src: git@github.com:erant-netology-courses/lighthouse-nginx.git
+  scm: git
+  version: latest
   name: lighthouse
 
 - src: https://github.com/erant-netology-courses/vector-role.git
   scm: git
-  version: "1.0.0"
+  version: latest
   name: vector
